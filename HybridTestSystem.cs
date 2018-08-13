@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Based on Hybrid TwoStick example
+ * 
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using Unity.Entities;
 using UnityEngine;

@@ -1,11 +1,10 @@
-﻿//using System.Collections;
-//using System.Collections.Generic;
+﻿/* Based on TwoStick example
+ * 
+ */
+
 using Unity.Collections;
 using Unity.Entities;
-//using UnityEngine;
 using Unity.Jobs;
-//using Unity.Mathematics;
-//using Unity.Burst;
 
 namespace FirstTrial01
 {

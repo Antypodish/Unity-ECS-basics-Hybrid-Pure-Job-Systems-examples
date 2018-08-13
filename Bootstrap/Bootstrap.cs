@@ -1,5 +1,5 @@
 ﻿/* This script initializes the game with ECS
- * 
+ * Based on Pure TwoStick example, reduced to minimum
  */
 
 using Unity.Entities;
@@ -15,11 +15,9 @@ namespace FirstTrial01
         
         public static void NewGame()
         {
-
             //var player = Object.Instantiate(Settings.PlayerPrefab);
             //player.GetComponent<Position2D>().Value = new float2(0, 0);
             //player.GetComponent<Heading2D>().Value = new float2(0, 1);
-
         }
         
         

@@ -1,4 +1,8 @@
-﻿using Unity.Collections;
+﻿/* Based on TwoStick examples
+ * 
+ */
+
+using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
 
