@@ -1,2 +1,2 @@
-# Unity-basics-Hybrid-Pure-and-Job-System-example
-Unity 3D with very basics Hybrid, Pure and Job Systems example
+# Unity 3 very basics ECS Hybrid, Pure and Job System examples
+Unity 3D with very basics ECS Hybrid, Pure and Job Systems example
